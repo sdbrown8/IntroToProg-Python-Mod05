@@ -2,7 +2,7 @@
 # Title: Assignment05
 # Desc: This assignment demonstrates using dictionaries, files, and exception handling
 # Change Log: (Who, When, What)
-#   Shannon Brown,02/11/2024,Created Script
+#   Shannon Brown,02/12/2024,Created Script
 # ------------------------------------------------------------------------------------------ #
 
 import json
